@@ -1,0 +1,15 @@
+D:\УЧЕБА\C#\practic\Examples\Example008_IntoMethod\bin\Debug\net6.0\Example008_IntoMethod.exe
+D:\УЧЕБА\C#\practic\Examples\Example008_IntoMethod\bin\Debug\net6.0\Example008_IntoMethod.deps.json
+D:\УЧЕБА\C#\practic\Examples\Example008_IntoMethod\bin\Debug\net6.0\Example008_IntoMethod.runtimeconfig.json
+D:\УЧЕБА\C#\practic\Examples\Example008_IntoMethod\bin\Debug\net6.0\Example008_IntoMethod.dll
+D:\УЧЕБА\C#\practic\Examples\Example008_IntoMethod\bin\Debug\net6.0\Example008_IntoMethod.pdb
+D:\УЧЕБА\C#\practic\Examples\Example008_IntoMethod\obj\Debug\net6.0\Example008_IntoMethod.csproj.AssemblyReference.cache
+D:\УЧЕБА\C#\practic\Examples\Example008_IntoMethod\obj\Debug\net6.0\Example008_IntoMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\C#\practic\Examples\Example008_IntoMethod\obj\Debug\net6.0\Example008_IntoMethod.AssemblyInfoInputs.cache
+D:\УЧЕБА\C#\practic\Examples\Example008_IntoMethod\obj\Debug\net6.0\Example008_IntoMethod.AssemblyInfo.cs
+D:\УЧЕБА\C#\practic\Examples\Example008_IntoMethod\obj\Debug\net6.0\Example008_IntoMethod.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\C#\practic\Examples\Example008_IntoMethod\obj\Debug\net6.0\Example008_IntoMethod.dll
+D:\УЧЕБА\C#\practic\Examples\Example008_IntoMethod\obj\Debug\net6.0\refint\Example008_IntoMethod.dll
+D:\УЧЕБА\C#\practic\Examples\Example008_IntoMethod\obj\Debug\net6.0\Example008_IntoMethod.pdb
+D:\УЧЕБА\C#\practic\Examples\Example008_IntoMethod\obj\Debug\net6.0\Example008_IntoMethod.genruntimeconfig.cache
+D:\УЧЕБА\C#\practic\Examples\Example008_IntoMethod\obj\Debug\net6.0\ref\Example008_IntoMethod.dll
